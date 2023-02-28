@@ -1,4 +1,4 @@
-package com.example.demo.service.impl;
+package com.example.demo.mapper;
 
 import com.example.demo.entity.Dept;
 import org.apache.ibatis.annotations.Mapper;
