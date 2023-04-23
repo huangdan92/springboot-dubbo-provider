@@ -1,6 +1,6 @@
 package com.neoniou.provider.service.impl;
 
-import com.neoniou.demo.serivce.SayService;
+
 import org.apache.dubbo.config.annotation.DubboService;
 
 /**

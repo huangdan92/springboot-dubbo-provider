@@ -1,4 +1,4 @@
-package com.neoniou.demo.serivce;
+package com.neoniou.provider.service.impl;
 
 /**
  * @author Neo.Zzj
