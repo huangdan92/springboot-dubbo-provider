@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>provider</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>dubbo</artifactId>
+    <version>0.0.15511-provider</version>
     <name>provider</name>
     <description>controllService</description>
     <modelVersion>4.0.0</modelVersion>
